@@ -1,0 +1,48 @@
+The value of n is 10
+For n of size 10, the elapsed time was 0.0 seconds.
+The value of n is 20
+For n of size 20, the elapsed time was 0.0 seconds.
+The value of n is 40
+For n of size 40, the elapsed time was 0.001 seconds.
+The value of n is 80
+For n of size 80, the elapsed time was 0.0 seconds.
+The value of n is 160
+For n of size 160, the elapsed time was 0.0 seconds.
+The value of n is 320
+For n of size 320, the elapsed time was 0.001 seconds.
+The value of n is 640
+For n of size 640, the elapsed time was 0.001 seconds.
+The value of n is 1280
+For n of size 1280, the elapsed time was 0.002 seconds.
+The value of n is 2560
+For n of size 2560, the elapsed time was 0.003 seconds.
+The value of n is 5120
+For n of size 5120, the elapsed time was 0.003 seconds.
+The value of n is 10240
+For n of size 10240, the elapsed time was 0.001 seconds.
+The value of n is 20480
+For n of size 20480, the elapsed time was 0.003 seconds.
+The value of n is 40960
+For n of size 40960, the elapsed time was 0.008 seconds.
+The value of n is 81920
+For n of size 81920, the elapsed time was 0.019 seconds.
+The value of n is 163840
+For n of size 163840, the elapsed time was 0.058 seconds.
+The value of n is 327680
+For n of size 327680, the elapsed time was 0.202 seconds.
+The value of n is 655360
+For n of size 655360, the elapsed time was 0.525 seconds.
+The value of n is 1310720
+For n of size 1310720, the elapsed time was 1.21 seconds.
+The value of n is 2621440
+For n of size 2621440, the elapsed time was 3.329 seconds.
+The value of n is 5242880
+For n of size 5242880, the elapsed time was 7.781 seconds.
+The value of n is 10485760
+For n of size 10485760, the elapsed time was 19.612 seconds.
+The value of n is 20971520
+For n of size 20971520, the elapsed time was 50.953 seconds.
+The value of n is 41943040
+Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.lang.Double.valueOf(Unknown Source)
+	at Shell.main(Shell.java:48)
